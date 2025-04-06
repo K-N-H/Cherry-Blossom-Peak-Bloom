@@ -9,6 +9,13 @@ Utilizing over 100 years of PBD data from the National Park Service (NPS) and te
 
 The detailed findings and analysis are documented in the `PBD_EDA.ipynb` notebook.
 
+### **Data Sources**
+The data files used in this project were obtained from the following sources and are located in the Datasets folder:
+
+* **`DC_monthly_temp.csv`**: Monthly temperature data for the Washington D.C. area from the National Weather Service (NWS), downloaded from [https://www.weather.gov/wrh/Climate?wfo=lwx]
+* **`PBD`**: Yoshino peak bloom dates from the National Park Service (NPS), downloaded from [https://www.epa.gov/climate-indicators/cherry-blossoms]
+* **`daily_temp`**: Daily temperature data for the Washington D.C. are from the NWS, downloaded from [https://www.weather.gov/wrh/Climate?wfo=lwx]
+
 ### **Dependencies**
 The functionality of this project depends on the availability of the following Python packages. Please ensure they are installed in your environment:
 - pandas
