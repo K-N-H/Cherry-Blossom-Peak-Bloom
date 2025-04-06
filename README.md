@@ -1,4 +1,4 @@
-# Cherry-Blossom-Peak-Bloom Exploratry Data Analysis (EDA)
+# Cherry Blossom Peak Bloom Date (PBD) Exploratry Data Analysis (EDA)
 
 ### **Description**
 The cherry blossom peak bloom in Washington D.C. is a highly anticipated annual event, drawing over a million visitors each year to witness the display. These blossoms have come to symbolize the arrival of spring, with their timing largely shaped by environmental factors. The peak bloom date (PBD) refers to the day in which 70% of Yoshino cherry blossoms are in full bloom. The purpose of this notebook is to analyze the relationship between pre-bloom temperatures and the PBD of Yoshino cherry blossoms, the dominant variety at the Tidal Basin.
