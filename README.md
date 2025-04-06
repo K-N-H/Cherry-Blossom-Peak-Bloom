@@ -18,9 +18,7 @@ The functionality of this project depends on the availability of the following P
 - seaborn
 - scipy
 - scikit-learn
-
-Installation can be performed using pip: `pip install pandas numpy matplotlib seaborn statsmodels scipy scikit-learn`
-
+  
 ### License
 This project is licensed under the CC0 1.0 Universal License - see the LICENSE.md file for details
 
