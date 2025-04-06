@@ -12,9 +12,12 @@ The detailed findings and analysis are documented in the `PBD_EDA.ipynb` noteboo
 ### **Data Sources**
 The data files used in this project were obtained from the following sources and are located in the Datasets folder:
 
-* **`PBD.csv`**: Yoshino peak bloom dates from the NPS, downloaded from [https://www.epa.gov/climate-indicators/cherry-blossoms] (Accessed March 23, 2025)
-* **`DC_monthly_temp.csv`**: Monthly temperature data for the Washington D.C. area from the NWS, downloaded from [https://www.weather.gov/wrh/Climate?wfo=lwx] (Accessed March 27, 2025)
-* **`daily_temp.csv`**: Daily temperature data for the Washington D.C. area from the NWS, downloaded from [https://www.weather.gov/wrh/Climate?wfo=lwx] (Accessed April 1, 2025)
+* **`PBD.csv`**: Yoshino peak bloom dates from the NPS
+*     downloaded from [https://www.epa.gov/climate-indicators/cherry-blossoms] (Accessed March 23, 2025)
+* **`DC_monthly_temp.csv`**: Monthly temperature data for the Washington D.C. area from the NWS
+*     downloaded from [https://www.weather.gov/wrh/Climate?wfo=lwx] (Accessed March 27, 2025)
+* **`daily_temp.csv`**: Daily temperature data for the Washington D.C. area from the NWS
+*     downloaded from [https://www.weather.gov/wrh/Climate?wfo=lwx] (Accessed April 1, 2025)
 
 ### **Dependencies**
 The functionality of this project depends on the availability of the following Python packages. Please ensure they are installed in your environment:
